@@ -6,4 +6,4 @@ Generate random quotes using Html, Css and JavaScript
 ![Quotes Index](https://raw.githubusercontent.com/fraznistpunk/random-quote-generator/master/images/quote.jpg)
 
 #### A small demo :
-[video]https://www.loom.com/share/d7d2c6968919466b9e460bf9c85ae1d7
+https://www.loom.com/share/d7d2c6968919466b9e460bf9c85ae1d7
